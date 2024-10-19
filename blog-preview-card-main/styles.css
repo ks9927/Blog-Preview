@@ -3,9 +3,9 @@ body {
 }
 .card {
   background-color: white;
-  height: 300px;
-  width: 300px;
-  display: flex;
+  height: 522px;
+  width: 384px;
+  display:flex;
   justify-content: center;
   align-items: center;
 }

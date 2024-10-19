@@ -8,4 +8,11 @@ body {
   display:flex;
   justify-content: center;
   align-items: center;
+  border-radius: 10px;
+}
+.image {
+  padding: 25px 25px;
+}
+.drawing {
+  border-radius: 10px;
 }

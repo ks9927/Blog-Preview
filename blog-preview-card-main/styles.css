@@ -16,3 +16,34 @@ body {
 .drawing {
   border-radius: 10px;
 }
+p {
+  font-family: Figtree; line-height: 150%;
+  letter-spacing: 0px;
+
+}
+.learning-tag {
+  font-weight: bold;
+  font-size: 16px;
+  background-color: yellow;
+  height: 29px;
+  width: 82px;
+  text-align: center;
+  border-radius: 10px;
+}
+.publish-date {
+  font-size: 14px;
+  font-weight: medium;
+}
+.course-title {
+  font-size: 24px;
+  font-weight: bolder;
+}
+.description {
+  font-size: 16px;
+  font-weight: medium;
+  color: grey;
+}
+.author-name {
+  font-size: 14px;
+  font-weight: bolder;
+}

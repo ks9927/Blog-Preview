@@ -67,7 +67,10 @@ img {
   color: #111111;
   width: 336px;
   height: 36px;
- 
+}
+.course-title:hover {
+  color:#f4d04e;
+  cursor: pointer;
 }
 .description {
   font-size: 16px;

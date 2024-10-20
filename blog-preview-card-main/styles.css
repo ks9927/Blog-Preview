@@ -15,22 +15,28 @@ div {
 .image {
   width: 336px;
   height: 200px;
-  
+  margin: 10px 20px;
 }
 .drawing {
   border-radius: 10px;
   width: 336px;
-  height: 200px;
-  
+  height: 200px; 
 }
 p {
   font-family: Figtree; 
   line-height: 150%;
   letter-spacing: 0px;
+  border: solid 5px blue;
 }
+img {
+  border: solid 5px red;
+}
+
 .inner-text {
   width: 336px;
   height: 194px;
+  margin-top: 20px;
+  
 }
 .learning-tag {
   font-weight: bold;

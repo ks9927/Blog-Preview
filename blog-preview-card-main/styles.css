@@ -1,22 +1,27 @@
 body {
   background-color: #f4d04e;
 }
+div {
+  border: solid 5px black;
+}
 .card {
   background-color: white;
   height: 522px;
   width: 384px;
-  display:flex;
-  justify-content: center;
-  align-items: center;
+  display: flex;
+  flex-direction: column;
   border-radius: 10px;
 }
 .image {
-  padding: 25px 25px;
+  width: 336px;
+  height: 200px;
+  
 }
 .drawing {
   border-radius: 10px;
   width: 336px;
   height: 200px;
+  
 }
 p {
   font-family: Figtree; 

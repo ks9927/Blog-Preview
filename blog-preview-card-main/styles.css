@@ -1,5 +1,9 @@
 body {
   background-color: #f4d04e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
 }
 div {
   border: solid 5px black;

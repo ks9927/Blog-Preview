@@ -16,6 +16,7 @@ div {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  padding: 24px 24px;
   border-radius: 10px;
 }
 .image {
@@ -40,9 +41,8 @@ img {
 
 .inner-text {
   width: 336px;
-  height: 290px;
-  
-  
+  height: 275px;
+ 
 }
 .learning-tag {
   font-weight: bold;
@@ -81,11 +81,11 @@ img {
 }
 .author-info {
   display: block;
-  
 }
 .author-image {
   width: 32px;
   height: 32px;
+  display: inline-block;
 }
 .author-name {
   font-size: 14px;

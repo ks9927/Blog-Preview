@@ -15,11 +15,17 @@ body {
 }
 .drawing {
   border-radius: 10px;
+  width: 336px;
+  height: 200px;
 }
 p {
-  font-family: Figtree; line-height: 150%;
+  font-family: Figtree; 
+  line-height: 150%;
   letter-spacing: 0px;
-
+}
+.inner-text {
+  width: 336px;
+  height: 194px;
 }
 .learning-tag {
   font-weight: bold;
@@ -37,20 +43,34 @@ p {
   font-size: 14px;
   font-weight: medium;
   color: #111111;
+  width: 143px;
+  height: 21px;
 }
 .course-title {
   font-size: 24px;
   font-weight: bolder;
   color: #111111;
+  width: 336px;
+  height: 36px;
+  margin: 5px 5px;
+ 
 }
 .description {
   font-size: 16px;
   font-weight: medium;
   color: #6b6b6b;
+  width: 336px;
+  height: 72px;
 
+}
+.author-image {
+  width: 32px;
+  height: 32px;
 }
 .author-name {
   font-size: 14px;
   font-weight: bolder;
   color: #111111;
+  width: 85px;
+  height: 21px;
 }

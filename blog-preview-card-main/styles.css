@@ -42,7 +42,7 @@ img {
 .inner-text {
   width: 336px;
   height: 275px;
- 
+  gap: 12px;
 }
 .learning-tag {
   font-weight: bold;
@@ -80,7 +80,9 @@ img {
   height: 72px;
 }
 .author-info {
-  display: block;
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
 }
 .author-image {
   width: 32px;
